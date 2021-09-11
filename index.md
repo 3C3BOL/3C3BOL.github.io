@@ -1,4 +1,4 @@
-![3C3BOL!](/assets/images/3C3BOL.jpg "3C3BOL")
+![3C3BOL!](/assets/images/3C3BOL.png "3C3BOL")
 
 # Welcome to 3C3BOL lair.
 ## You have arrived to the Official 3C3BOL Artist Website.
