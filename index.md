@@ -1,35 +1,36 @@
 
-# Welcome to my Lair Friend.
-You have arrived to the Official 3C3BOL Artist Website.}p
+# Welcome to 3C3BOL lair.
+## You have arrived to the Official 3C3BOL Artist Website.
 
 ## Who is 3C3BOL?
 
-3C3Bol is a Latin American NFT Artist. I aim to learn and teach about NFT to newcoming artists and NFT supporters.
+3C3Bol *(pronounced Three C Three Ball)* is a Latin American NFT Artist who aims to create content and distribute it through the use of cryptocurrencies.
 
-## What are some of your works?
-I'm currently Designing DeliriumArtificialis Collection a bunch of videos of AI allucination, I'm also working in CryptoRobinHoods Collection, a database of 1000 NFT images distributed in opensea.
+## What are 3C3BOL's artworks?
+3C3BOL is currently designing DeliriumArtificialis a collection of NFTs videos based on Artificial Intelligence (AI) hallucinations made with Python Programming Language and VideoEditing Tools. Additionally 3C3BOL is working on CryptoRobinHoods a collection of NFT images distributed in opensea.
 
-## Why are you selling NFT's?
-NFT is a new technology that is currently trending. By supporting NFT, you support the development of new technologies
-If you buy or sell NFT, you are supporting the descentralization of money.
-You can finnaly support my work as artists.
-We can safely exchange without scam threats.
+## Why is 3C3BOL selling NFT's?
+3C3BOL finds that artists needs to modernize quickly if they want to survive in the 2020's. Therefore, artists should aim to use NFT which is a new technology that is currently trending. Futhermore you can finally support my work as artists independently of where you live, we can now safely exchange without scam threats.
 
-## How can I buy your works?
-You can buy RobinHoods Collection at www.opensea.io/assets/ bidind or buying out with ETH.
+Finally, by creating and supporting NFT, you support the development of new technologies. If you buy or sell NFT, you are supporting the decentralization of money, which is a political argument we shouldn't forget.
+
+## How can I buy 3C3BOL works?
+You can buy 3C3BOL artworks in [3C3BOL Opensea profile](https://opensea.io/3C3Bol) bidind or buying with ETH.
 
 ## What is ETH?
-Ethereum is a cryptocurrency
+Ethereum is cryptocurrency and open source platform, which is used to program smart contracts. The platform is decentralized unlike other blockchains. It is programmable, which means that developers can use it to create new types of decentralized applications. It is used to obtain NFTs.
 
 
-### 3C3BOL Collections 
-Buy my work:
-See some examples:
+### 3C3BOL ArtWorks 
+[3C3BOL Opensea profile](https://opensea.io/3C3Bol)
+[3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis)
+
 
 ### 3C3BOL Social Media Links
-- fb
-- insta
-- youtube
-- opensea
+- [3C3BOL facebook Fan Page](https://www.facebook.com/3c3bol) 
+-  [3C3BOL Instagram Fan Page](https://www.instagram.com/3c3bol) 
+-   [3C3BOL Youtube Fan Page](https://www.youtube.com/channel/UCAp0Li7QewM1dnpE_Bu2mcw) 
+-    [3C3BOL Opensea Profile](https://opensea.io/3C3Bol) 
+
 
 
