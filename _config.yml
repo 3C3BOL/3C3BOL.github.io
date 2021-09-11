@@ -1,7 +1,1 @@
 theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-multiple-languages-plugin
-# languages
-# default langages : "ko" 
-languages: ["en", "es"]
