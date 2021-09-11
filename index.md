@@ -22,8 +22,8 @@ Ethereum is cryptocurrency and open source platform, which is used to program sm
 
 
 ### 3C3BOL ArtWorks 
-[3C3BOL Opensea profile](https://opensea.io/3C3Bol)
-[3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis)
+- [3C3BOL Opensea profile](https://opensea.io/3C3Bol)
+- [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis)
 
 
 ### 3C3BOL Social Media Links
