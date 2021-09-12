@@ -34,7 +34,7 @@ Ethereum is cryptocurrency and open source platform, which is used to program sm
 - [3C3BOL DeliriumArtificialis #1](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6966897672762351418003971271740750814012452380854147108040274949046800482305)
 
 ### 3C3BOL Social Media Links (Active in Instagram, Reddit and Fb \\ Opensea for Sales)
--[3C3BOL Instagram](https://www.instagram.com/3c3bol) 
+- [3C3BOL Instagram](https://www.instagram.com/3c3bol) 
 - [3C3BOL Facebook Fan Page](https://www.facebook.com/3c3bol) 
 -   [3C3BOL Youtube Page](https://www.youtube.com/channel/UCAp0Li7QewM1dnpE_Bu2mcw) 
 -    [3C3BOL Opensea Profile](https://opensea.io/3C3Bol) 
