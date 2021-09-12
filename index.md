@@ -17,7 +17,7 @@
 
 ## What is  [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis)?
 
- [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis) is a 3C3BOL Artwork Collection that utilizes Artificial Intelligence (AI) through the use of generative adversarial networks (GAN), programming scripts and video editing software to create mesmerizing videos that seems human hallucinations where you sometimes can see familial objects.
+ [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis) is a 3C3BOL's Artwork Collection that utilizes Artificial Intelligence (AI) through the use of generative adversarial networks (GAN), programming scripts and video editing software to create mesmerizing videos that seems human hallucinations where you sometimes can see familial objects.
 
 ## What are 3C3BOL artworks inspirations?
 
