@@ -4,7 +4,7 @@
 
 
 # Welcome to 3C3BOL lair.
-## You have arrived to the Official 3C3BOL Artist Website.
+## 3C3BOL Official Website.
 
 
 ## Who is [3C3BOL](https://www.instagram.com/3c3bol)?
