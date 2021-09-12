@@ -14,6 +14,8 @@
 
 ## What is DeliriumArtificialis Collection?
 
+## What are 3C3BOL inspirations?
+
 ## Why is 3C3BOL selling NFT's?
 3C3BOL finds that artists needs to modernize quickly if they want to survive in the 2020's. Therefore, artists should aim to use NFT which is a new technology that is currently trending. Futhermore you can finally support my work as artists independently of where you live, we can now safely exchange without scam threats.
 
@@ -36,7 +38,7 @@ Ethereum is cryptocurrency and open source platform, which is used to program sm
 - [3C3BOL Facebook Fan Page](https://www.facebook.com/3c3bol) 
 -   [3C3BOL Youtube Page](https://www.youtube.com/channel/UCAp0Li7QewM1dnpE_Bu2mcw) 
 -    [3C3BOL Opensea Profile](https://opensea.io/3C3Bol) 
--      [3C3BOL Reddit Profile](https://reddit.com/3C3Bol) 
+-    [3C3BOL Reddit Profile](https://www.reddit.com/user/3C3BOL) 
 
 
 
