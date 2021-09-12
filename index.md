@@ -7,14 +7,17 @@
 
 ## Who is 3C3BOL?
 
-3C3Bol *(pronounced Three C Three Ball)* is a Latin American NFT Artist who aims to create content and distribute it through the use of cryptocurrencies.
+3C3Bol *(pronounced Three C Three Ball)* is a Latin American Posmodern NFT Artist who aims to create content and distribute it through the use of cryptocurrencies.
 
-## What are 3C3BOL's artworks?
-3C3BOL is currently designing DeliriumArtificialis a collection of NFTs videos based on Artificial Intelligence (AI) hallucinations made with Python Programming Language and VideoEditing Tools. Additionally 3C3BOL is working on CryptoRobinHoods a collection of NFT images distributed in opensea.
+## What are some of 3C3BOL's artworks?
+3C3BOL is currently designing [DeliriumArtificialis](https://opensea.io/collection/deliriumartificialis), a collection of NFTs videos based on Artificial Intelligence (AI) hallucinations made with Python Programming Language and Video Editing Tools. Additionally 3C3BOL is working on CryptoRobinHoods a collection of NFT images distributed in opensea.
 
-## What is DeliriumArtificialis Collection?
+## What is  [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis)?
+ [3C3BOL DeliriumArtificialis Collection](https://opensea.io/collection/deliriumartificialis) is a 3C3BOL Artwork Collection that utilizes Artificial Intelligence (AI) through the use of generative adversarial networks (GAN), programming scripts and video editing software to create mesmerizing videos that seems human hallucinations where you sometimes can see familial objects.
 
-## What are 3C3BOL inspirations?
+## What are 3C3BOL artworks inspirations?
+
+3C3BOL artworks are inspired by Glitch art, Vaporwave, Ciberpunk
 
 ## Why is 3C3BOL selling NFT's?
 3C3BOL finds that artists needs to modernize quickly if they want to survive in the 2020's. Therefore, artists should aim to use NFT which is a new technology that is currently trending. Futhermore you can finally support my work as artists independently of where you live, we can now safely exchange without scam threats.
