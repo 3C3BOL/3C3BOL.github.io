@@ -1,10 +1,10 @@
 ![3C3BOL!](/assets/images/3C3BOL.png "3C3BOL")
 
-*PRONTO TRADUCCIÓN AL ESPAÑOL*
+*PRESIONA AQUÍ PARA ACCEDER AL SITIO EN ESPAÑOL*
 
 
 # Welcome to 3C3BOL lair.
-## 3C3BOL Official Website.
+###### 3C3BOL Official Website.
 
 
 ## Who is [3C3BOL](https://www.instagram.com/3c3bol)?
