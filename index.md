@@ -29,9 +29,10 @@ Ethereum is cryptocurrency and open source platform, which is used to program sm
 
 ### 3C3BOL Social Media Links
 - [3C3BOL facebook Fan Page](https://www.facebook.com/3c3bol) 
--  [3C3BOL Instagram Fan Page](https://www.instagram.com/3c3bol) 
--   [3C3BOL Youtube Fan Page](https://www.youtube.com/channel/UCAp0Li7QewM1dnpE_Bu2mcw) 
+-  [3C3BOL Instagram](https://www.instagram.com/3c3bol) 
+-   [3C3BOL Youtube Page](https://www.youtube.com/channel/UCAp0Li7QewM1dnpE_Bu2mcw) 
 -    [3C3BOL Opensea Profile](https://opensea.io/3C3Bol) 
+-      [3C3BOL Reddit Profile](https://reddit.com/3C3Bol) 
 
 
 
