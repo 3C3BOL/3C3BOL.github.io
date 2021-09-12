@@ -1,4 +1,5 @@
 ![3C3BOL!](/assets/images/3C3BOL.png "3C3BOL")
+
 *PRONTO TRADUCCIÓN AL ESPAÑOL*
 
 # Welcome to 3C3BOL lair.
