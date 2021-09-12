@@ -1,10 +1,10 @@
 ![3C3BOL!](/assets/images/3C3BOL.png "3C3BOL")
 
-*PRESIONA AQUÍ PARA ACCEDER AL SITIO EN ESPAÑOL*
+[*PRESIONA AQUÍ PARA ACCEDER AL SITIO EN ESPAÑOL*](https://translate.google.com/translate?sl=en&tl=es&u=https://3c3bol.github.io/)?
 
 
-# Welcome to 3C3BOL lair.
-###### 3C3BOL Official Website.
+# Welcome to 3C3BOL's lair.
+###### 3C3BOL's Official Website.
 
 
 ## Who is [3C3BOL](https://www.instagram.com/3c3bol)?
@@ -25,7 +25,7 @@
 
 ## Why is 3C3BOL selling NFT's?
 
-3C3BOL finds that artists needs to modernize quickly if they want to survive in the 2020s. Therefore, artists should aim to use NFT, which is a new technology that is currently trending. Furthermore, you can finally support my work as artists independently of where you live, we can now safely exchange without scam threats.
+3C3BOL finds that artists needs to modernize quickly if they want to survive in the 2020s. Therefore, artists should aim to use NFT, which is a new technology that is currently trending. Furthermore, you can finally support my work as an artist independently of where you live, we can now safely exchange without scam threats.
 
 Finally, by creating and supporting NFT, you support the development of new technologies. If you buy or sell NFT, you are supporting the decentralization of money, which is a political argument we shouldn't forget.
 
