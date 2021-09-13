@@ -2,7 +2,7 @@
 
 [*PRESIONA AQUÍ PARA ACCEDER AL SITIO EN ESPAÑOL (spanish version)*](https://translate.google.com/translate?sl=en&tl=es&u=https://3c3bol.github.io/)
 
-[*CLIQUE AQUI PARA ACESSAR O SITE EM PORTUGUÊS (portuguese version)*](https://translate.google.com/translate?sl=en&pr=es&u=https://3c3bol.github.io/)
+[*CLIQUE AQUI PARA ACESSAR O SITE EM PORTUGUÊS (portuguese version)*](https://translate.google.com/translate?hl=&sl=en&tl=pt&u=https:/3c3bol.github.io)
 
 [*CLIQUEZ ICI POUR ACCÉDER AU SITE EN FRANÇAIS (french version)*](https://translate.google.com/translate?sl=en&tl=fr&u=https://3c3bol.github.io/)
 
