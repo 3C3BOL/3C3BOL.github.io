@@ -1,8 +1,11 @@
 ![3C3BOL!](/assets/images/3c3bol.png "3C3BOL")
 
 [*PRESIONA AQUÍ PARA ACCEDER AL SITIO EN ESPAÑOL (spanish version)*](https://translate.google.com/translate?sl=en&tl=es&u=https://3c3bol.github.io/)
+
 [*CLIQUE AQUI PARA ACESSAR O SITE EM PORTUGUÊS (portuguese version)*](https://translate.google.com/translate?sl=en&pr=es&u=https://3c3bol.github.io/)
+
 [*CLIQUEZ ICI POUR ACCÉDER AU SITE EN FRANÇAIS (french version)*](https://translate.google.com/translate?sl=en&tl=fr&u=https://3c3bol.github.io/)
+
 [*3C3BOL's Website (en)*](https://3c3bol.github.io/)
 
 
